@@ -2,7 +2,8 @@
 
 
 
-![Uploading minpro.drawio.png…]()
+![minpro drawio](https://github.com/user-attachments/assets/e27a4f58-3cc1-4039-9fa4-bbe7dd9f2bfa)
+
 
 
 print("======================================================================")
